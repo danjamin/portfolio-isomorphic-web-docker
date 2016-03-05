@@ -1,4 +1,4 @@
-# NOT MAINTAINED
+# DEPRECATED (Dockerfile brought into danjamin/portfolio-isomorphic)
 
 # portfolio-isomorphic-web-docker
 
