@@ -1,3 +1,5 @@
+# NOT MAINTAINED
+
 # portfolio-isomorphic-web-docker
 
 docker image definition for portfolio-isomorphic web app
